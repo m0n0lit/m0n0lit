@@ -10,20 +10,14 @@
 
 <p style = "margin-left: 30px">
 
-#### Website Development
-- <b>JS Frameworks</b> : Angular, Vue, React, Express, Backbone, & Node
+#### Development
 - <b>Database</b> : MS SQL Server, SQL Azure, MySQL, Entity Framework, Dapper.NET, LINQ to SQL, CSLA.NET, JSON
 - <b>MySQL, MSSQL, Mongo DB, PostgreSQL, Oracle MySQL</b>
 - <b>Operating Systems</b> : Windows Enterprise, Linux, MacBook Pro
 - <b>Web services</b> : WSDL, SOAP, JSON0
 - <b>Visual Basic.NET, ASP.NET, .NET Core; Razor pages, WebAPI, WebForms, DotNetNuke</b>
 - <b>Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Firebase, Heroku, Trello, Pusher and so on </b>
-#### Mobile Application Development
-
-- <b>Swift, Objective-C, Java, Xcode, Android Studio</b>
-- <b>JUnit, Mockito, Robolectric</b>
-- <b>MVVM, MVP</b>
-
+- <b> Mikrotik, Cisco, TP-Link, D-Link
 ### Skills and Tools:
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
