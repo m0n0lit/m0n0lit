@@ -30,22 +30,26 @@
 - <b>Automation & Scripting</b> : PowerShell, Bash, Python (Security Libraries), Ansible, Docker, Kubernetes
 ### Skills and Tools:
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/powershell/powershell.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/wireshark/wireshark.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/metasploit/metasploit.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/nmap/nmap.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/burpsuite/burpsuite.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/osint/osint.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/elastic/elastic.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/grafana/grafana.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=m0n0lit&show_icons=true&theme=radical" alt="my github stats" height="190px" />
