@@ -9,13 +9,25 @@
 <p style = "margin-left: 30px">
 
 #### Development
-- <b>Database</b> : MS SQL Server, SQL Azure, MySQL, Entity Framework, Dapper.NET, LINQ to SQL, CSLA.NET, JSON
-- <b>MySQL, MSSQL, Mongo DB, PostgreSQL, Oracle MySQL</b>
-- <b>Operating Systems</b> : Windows Enterprise, Linux, MacBook Pro
-- <b>Web services</b> : WSDL, SOAP, JSON0
-- <b>Visual Basic.NET, ASP.NET, .NET Core; Razor pages, WebAPI, WebForms, DotNetNuke</b>
-- <b>Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Firebase, Heroku, Trello, Pusher and so on </b>
-- <b> Mikrotik, Cisco, TP-Link, D-Link
+- <b>Database</b> : MS SQL Server, SQL Azure, MySQL, PostgreSQL, Mongo DB, Oracle MySQL, Entity Framework, Dapper.NET, LINQ to SQL, CSLA.NET, JSON
+
+- <b>Operating Systems</b> : Windows Enterprise, Linux (Ubuntu, Kali, Debian), MacBook Pro
+
+- <b>Web services</b> : WSDL, SOAP, REST, JSON, GraphQL
+
+- <b>Frameworks & Technologies</b> : Visual Basic.NET, ASP.NET, .NET Core, Razor Pages, WebAPI, WebForms, DotNetNuke
+
+- <b>Cloud Platforms</b> : Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Firebase, Heroku, Trello, Pusher
+
+- <b>Network Equipment</b> : Mikrotik, Cisco, TP-Link, D-Link
+
+- <b>Cybersecurity & Forensics Tools</b> : Wireshark, Nmap, Metasploit, Burp Suite, Autopsy, Volatility, FTK Imager, OSINT Framework, Maltego, Shodan, Cuckoo Sandbox, OpenVAS, Hydra, Hashcat, Mimikatz, Aircrack-ng
+
+- <b>Data Protection & Privacy</b> : VeraCrypt, GnuPG, BitLocker, OpenSSL, KeePassXC, PrivacyTools.io stack, SIEM (Graylog, Wazuh, Splunk)
+
+- <b>Monitoring & Administration</b> : Zabbix, Grafana, Prometheus, ELK Stack (Elasticsearch, Logstash, Kibana), Nagios, CrowdSec
+
+- <b>Automation & Scripting</b> : PowerShell, Bash, Python (Security Libraries), Ansible, Docker, Kubernetes
 ### Skills and Tools:
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
