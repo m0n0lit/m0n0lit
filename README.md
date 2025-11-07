@@ -15,13 +15,11 @@
 
 - <b>Web services</b> : WSDL, SOAP, REST, JSON, GraphQL
 
-- <b>Frameworks & Technologies</b> : Visual Basic.NET, ASP.NET, .NET Core, Razor Pages, WebAPI, WebForms, DotNetNuke
-
 - <b>Cloud Platforms</b> : Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Firebase, Heroku, Trello, Pusher
 
 - <b>Network Equipment</b> : Mikrotik, Cisco, TP-Link, D-Link
 
-- <b>Cybersecurity & Forensics Tools</b> : Wireshark, Nmap, Metasploit, Burp Suite, Autopsy, Volatility, FTK Imager, OSINT Framework, Maltego, Shodan, Cuckoo Sandbox, OpenVAS, Hydra, Hashcat, Mimikatz, Aircrack-ng
+- <b>Cybersecurity & Forensics Tools</b> : Wireshark, Nmap, Metasploit, Burp Suite, Autopsy, Volatility, FTK Imager, OSINT Framework, Maltego, Shodan, Cuckoo Sandbox, OpenVAS, Hydra, Hashcat, Mimikatz, Aircrack-ng, SIEM, IDS/IPS
 
 - <b>Data Protection & Privacy</b> : VeraCrypt, GnuPG, BitLocker, OpenSSL, KeePassXC, PrivacyTools.io stack, SIEM (Graylog, Wazuh, Splunk)
 
