@@ -35,13 +35,6 @@
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/wireshark/wireshark.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/metasploit/metasploit.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/nmap/nmap.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/burpsuite/burpsuite.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/osint/osint.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/elastic/elastic.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/grafana/grafana.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
